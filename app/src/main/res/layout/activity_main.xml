@@ -28,19 +28,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="赤系の色"
-            android:id="@+id/button" />
+            android:id="@+id/button_red" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="緑系の色"
-            android:id="@+id/button2"/>
+            android:id="@+id/button_green"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="青系の色"
-            android:id="@+id/button3" />
+            android:id="@+id/button_blue" />
 
     </LinearLayout>
 
